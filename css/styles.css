@@ -1,0 +1,117 @@
+.container-top{
+    background-color: #EEF6F6;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    margin: 0 auto;
+    color: #66BFBF;
+}
+
+h2 , h4{
+    font-size: 2rem;
+    margin: 0 auto;
+    color: #66BFBF;
+    font-weight: normal;
+    margin: 20px;
+}
+body{
+    text-align: center;
+    font-family: 'Alata', sans-serif;
+}
+.cloud-bottom{
+    position:absolute;
+    bottom: 300px;
+    left: 300px;
+
+}
+.cloud-top{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.container-top{
+    padding-top: 100px;
+    position: relative;
+
+}
+h3 , a{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+
+}
+p{
+    line-height: 2rem;
+}
+.code-gif {
+    width: 25%;
+    float: left;
+    margin: 0 30px 0 0;
+}
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin: 0 0 0 30px;
+}
+
+.profile{
+
+}
+.mypic{
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+}
+
+.middle-container{
+    margin-top: 70px;
+}
+
+.rule{
+    width: 5%;
+    height: 0;
+    border: 5px dotted #EAF6F6;
+}
+.btn{
+    width: 50%;
+    border: #66BFBF;
+    background-color: #66BFBF;
+    text-decoration: none;
+    color: white;
+    padding: 0.6rem;
+    border-radius: 7px;
+    margin-top: 500px;   
+}
+.btn:hover{
+    background-color: #30e3cb;
+}
+.contact-me{
+    width: 40%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    text-decoration: none;
+    padding: 25px 0 0 0;
+
+}
+.footer-link{
+    text-decoration: none;
+    margin: 0 30px;
+}
+.footer-text{
+    color: #EAF6F6;
+}
+a:hover{
+    background-color: #EAF6F6;
+}
+h4{
+    margin: 0;
+    padding: 0;
+}
